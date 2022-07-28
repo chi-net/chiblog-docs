@@ -1,0 +1,16 @@
+{
+  "name": "chiblog-docs",
+  "version": "1.0.0",
+  "description": "chiblog's offical documentation",
+  "repository": "https://github.com/chi-net/chiblog-docs.git",
+  "author": "chihuo2104 <chihuo2104@moekonnyaku.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.4",
+    "vue": "^3.2.37"
+  }
+}
