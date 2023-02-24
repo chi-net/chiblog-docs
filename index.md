@@ -14,7 +14,7 @@ hero:
       link: https://github.com/chi-net/chiblog
     - theme: alt
       text: View Demo
-      link: https://demo.chiblog.apps.chihuo2104.dev/
+      link: https://demo.chiblog.chinet.work/
 features:
   - title: Light
     details: Thanks to vue.js, chiblog has a very small file size and can be used to everywhere.(Everything packed and gzipped is only 80kb!). Also,chiblog has a lazy-load system by vue-router. This is very useful when you have great website traffics!
