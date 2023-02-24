@@ -21,6 +21,10 @@ export default {
           { text: 'Item D', link: '/item-d' },
         ]
       }
-    ]
+    ],
+    footer: {
+      message: 'chiblog was released under GPL-3.0 licnese.',
+      copyright: 'Powered by <a href="https://im.chihuo2104.dev/" target="_blank">chihuo2104</a> & <a href="https://chinet.work/" target="_blank">chi Network</a> ©2022-<span id="now">now</span><script>document.getElementById("now").innerHTML=(new Date()).getFullYear();</script>'
+    }
   }
 }

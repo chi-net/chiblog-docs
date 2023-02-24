@@ -1,1 +1,1 @@
-# Please visit <https://chiblog.apps.chihuo2104.dev/>
+# Please visit <https://chiblog.chinet.work/>
